@@ -1,0 +1,75 @@
+/* CSS Document */
+
+.crimson-text-regular {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.crimson-text-semibold {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: normal;
+  color:#948678;
+}
+
+.crimson-text-bold {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.crimson-text-regular-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.crimson-text-semibold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 600;
+  font-style: italic;
+  color:#24331a;
+}
+
+.crimson-text-bold-italic {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: italic;
+  color:#948678;
+}
+
+.off-base-light {
+	background-color: #E8E5E4;
+}
+
+.off-base-medium {
+	background-color: #D8CECA;
+}
+
+.off-base-deep {
+	background-color: #948678;
+}
+
+.text-center {
+	align-content: center;
+	justify-content: left;
+}
+
+.type-hunter-green {
+	color:#24331a;
+}
+
+.type-sunset-orange {
+	color:#d05120;
+}
+
+.type-concrete-gray {
+	color:#E8E5E4;
+}
+
+.input-height {
+	height: 35px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
